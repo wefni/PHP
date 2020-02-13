@@ -1,5 +1,5 @@
 function gomb() {
 
-	let x = document.getElementById("demo").innerHTML;
+	let x = document.getElementById("demo!").innerHTML;
 
 }
