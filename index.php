@@ -1,16 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php
 
-	<?php
+		require "index.htm";
 
-		echo("Hello World!!!");
-
-	?>
+ ?>
 
 
-</body>
-</html>
+ 		<main>
+		</main>
+
+
+<?php
+
+		require "footer.php";
+
+ ?>
